@@ -23,7 +23,7 @@
   "dependencies": {
     "async": "^2.1.4",
     "blockexplorer-rpc": "^0.0.4",
-    "cc-transaction-builder": "^0.1.3",
+    "cc-transaction-builder": "https://github.com/bitt-john/cc-transaction-builder.git",
     "coloredcoins-rpc": "^0.1.0",
     "debug": "^2.6.8",
     "hdwallet": "^0.7.1",
